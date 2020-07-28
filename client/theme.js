@@ -16,9 +16,9 @@ const theme = createMuiTheme({
       contrastText: '#ffff',
     },
       openTitle: '#c51162',
-      protectedTitle: orange['700'],
+      protectedTitle: '#ff3d00',
       type: 'light'
     }
   })
-
+node
   export default theme  

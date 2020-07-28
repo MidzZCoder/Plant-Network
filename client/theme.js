@@ -1,5 +1,5 @@
 import { createMuiTheme } from '@material-ui/core/styles'
-import { green, pink } from '@material-ui/core/colors'
+import { teal, orange } from '@material-ui/core/colors'
 
 const theme = createMuiTheme({
     palette: {
@@ -7,18 +7,18 @@ const theme = createMuiTheme({
       light: '#81c784',
       main: '#4caf50',
       dark: '#388e3c',
-      contrastText: '#ffff',
+      contrastText: '#fff',
     },
     secondary: {
-      light: '#ff4081',
-      main: '#f50057',
-      dark: '#c51162',
-      contrastText: '#ffff',
+      light: '#e33371',
+      main: '#dc004e',
+      dark: '#9a0036',
+      contrastText: '#000',
     },
-      openTitle: '#c51162',
-      protectedTitle: '#ff3d00',
+      openTitle: teal['700'],
+      protectedTitle: orange['700'],
       type: 'light'
     }
   })
-node
+
   export default theme  

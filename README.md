@@ -1,12 +1,13 @@
-# MERN Social 2.0
+# PLANT NETWORK
 
-
+Check out the live app by [clicking here](https://midz-plantnetwork.herokuapp.com/).
 #### Technology and Framework Used
 1. Node
 2. NPM 
 3. MongoDB
 4. React 
 5. Material (https://material-ui.com/)
+6. Heroku
 
 ####  How to run this app
 1. Make sure MongoDB is running on your system 

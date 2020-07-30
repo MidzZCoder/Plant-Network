@@ -1,4 +1,5 @@
 # PLANT NETWORK
+Plant network is a social network for plant nerds where they can exchange plants, seeds, cuttings and ideas at no extra cost. 
 
 Check out the live app by [clicking here](https://midz-plantnetwork.herokuapp.com/).
 #### Technology and Framework Used
